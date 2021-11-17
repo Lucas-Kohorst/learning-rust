@@ -30,7 +30,21 @@
 - No `null` values, instead using the `Option<T>` enum
 - Everything is private by default you even need to re-export a imported module with `pub use` 
   - "With pub use, we can write our code with one structure but expose a different structure"
-- 
+- [Lifetimes and Traits](https://doc.rust-lang.org/stable/book/ch10-02-traits.html)
+  - 
 
- ### Resources
- - [Playground](https://play.rust-lang.org/)
+### Development Resources
+- [Playground](https://play.rust-lang.org/)
+- [Easy rust](https://github.com/Dhghomon/easy_rust)
+- [Rustlings](https://github.com/rust-lang/rustlings)
+- [Awesome rust](https://github.com/rust-unofficial/awesome-rust)
+
+### Solana Reading and Resources 
+- [Anchor](https://project-serum.github.io/anchor/getting-started/installation.html#install-rust)
+- [Learning how to build on solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
+- [Understanding Program derived Addresses](https://www.brianfriel.xyz/understanding-program-derived-addresses/)
+- [The complete solana development guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [Solana Account model](https://solana.wiki/zh-cn/docs/account-model/)
+- [Learning solana tweet thread](https://mobile.twitter.com/pencilflip/status/1451949960065335302)
+- [Solana PDAs (again)](https://twitter.com/pencilflip/status/1455948263853600768?s=12&utm_source=pocket_mylist)
+- [Debugging custom anchor messages](https://www.notion.so/Debugging-Custom-Anchor-Errors-b8540dd418c44a4e939ab17c56a3fd3b)
