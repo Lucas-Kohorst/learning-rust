@@ -39,3 +39,4 @@
 - [Rustlings](https://github.com/rust-lang/rustlings)
 - [Awesome rust](https://github.com/rust-unofficial/awesome-rust)
 - [Half hour to learn rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+- [Learning Rust](https://learning-rust.github.io/docs/a1.why_rust.html)

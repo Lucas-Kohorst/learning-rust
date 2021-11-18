@@ -1,0 +1,3 @@
+[submodule "solana/solana-bpf-program-template"]
+	path = solana/solana-bpf-program-template
+	url = https://github.com/mvines/solana-bpf-program-template
